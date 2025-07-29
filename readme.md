@@ -1,19 +1,18 @@
-ADmyBRAND Insights
+# ADmyBRAND Insights
 
-Unzip the AdmyBrand_Insights.zip archive.
+**🔗 Deployment:** [admybrand-assignment.vercel.app](https://admybrand-assignment.vercel.app)
 
-Install Dependencies:
+---
 
-npm install
+## 🛠️ Setup Instructions
 
-Run Development Server:
+1. **Unzip** the `AdmyBrand-Insights-Assignment archive  
+2. **Install dependencies**:
+   npm install
+3.Start development server:
+  npm run dev
+4. Open your browser at http://localhost:5173
 
-npm run dev
-
-Open your browser at http://localhost:5173.
-
-Deployment - vercel 
-Link : admybrand-assignment.vercel.app
 
 Feature Overview:
 
