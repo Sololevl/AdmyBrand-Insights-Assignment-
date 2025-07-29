@@ -9,7 +9,7 @@
 1. **Unzip** the `AdmyBrand-Insights-Assignment archive  
 2. **Install dependencies**:
    npm install
-3.Start development server:
+3. **Start development server**:
   npm run dev
 4. Open your browser at http://localhost:5173
 
