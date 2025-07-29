@@ -12,6 +12,9 @@ npm run dev
 
 Open your browser at http://localhost:5173.
 
+Deployment - vercel 
+Link : admybrand-assignment.vercel.app
+
 Feature Overview:
 
 -> Interactive Metrics: Real‑time cards displaying revenue, users, conversions, and average growth.
