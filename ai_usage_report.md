@@ -2,7 +2,7 @@
 
 ## AI Tools Used
 
->Primary tools: ChatGPT (GPT-4o Mini), GitHub Copilot, Midjourney
+>Primary tools: ChatGPT (GPT-4o Mini), GitHub Copilot, Claude.
 
 ## Key use cases:
 
