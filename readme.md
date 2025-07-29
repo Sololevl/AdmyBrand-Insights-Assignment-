@@ -4,7 +4,6 @@ Unzip the AdmyBrand_Insights.zip archive.
 
 Install Dependencies:
 
-cd project
 npm install
 
 Run Development Server:
